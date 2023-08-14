@@ -1,6 +1,8 @@
 # C-Programming-with-Linux
 C Programming with Linux Specialization by Dartmouth &amp; IMT 
 
+![alt text](https://www.imt.fr/wp-content/uploads/2018/06/CP-MOOC.png)
+
 __Specialization - 7 course Series__
 
 ---
@@ -26,11 +28,12 @@ Along with the C programming language comes Linux, an essential operating system
 - __Course 5__ - C Programming: Advanced Data Types - 5 :heavy_check_mark:
   
 
-- __Course 6__ -  Linux Basics: The Command Line Interface - 6
-
-  _In progress_
+- __Course 6__ -  Linux Basics: The Command Line Interface - 6 :heavy_check_mark:
+  
 
 - __Course 7__ - C Programming: Using Linux Tools and Libraries - 7
+
+  _In progress_
 
   ***
 
