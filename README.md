@@ -33,9 +33,7 @@ Along with the C programming language comes Linux, an essential operating system
 - __Course 6__ -  Linux Basics: The Command Line Interface - 6 :heavy_check_mark:
   
 
-- __Course 7__ - C Programming: Using Linux Tools and Libraries - 7
-
-  _In progress_
+- __Course 7__ - C Programming: Using Linux Tools and Libraries - 7 :heavy_check_mark:
 
   ***
 
