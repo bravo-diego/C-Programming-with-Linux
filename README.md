@@ -15,25 +15,25 @@ Along with the C programming language comes Linux, an essential operating system
 
 “_Participants on this Professional Certificate course will be equipped to face the challenges of a world in which objects are interconnected and integrated in a vast data network. […] Airbus factories and products are increasingly incorporating the Linux operating system, which is one of the most widely used today. The C Programming with Linux program provides learners with essential programming skills allowing them to enter the growth sectors of today_.” Florence DUFRASNES, Airbus.
 
-- __Course 1__ - C Programming: Getting Started - 1 :heavy_check_mark:
+- __Course 1__ - C Programming: Getting Started - 1 
   
 
-- __Course 2__ - C Programming: Language Foundations - 2 :heavy_check_mark:
+- __Course 2__ - C Programming: Language Foundations - 2 
   
   
-- __Course 3__ - C Programming: Modular Programming and Memory Management - 3 :heavy_check_mark:
+- __Course 3__ - C Programming: Modular Programming and Memory Management - 3 
   
   
-- __Course 4__ - C Programming: Pointers and Memory Management - 4 :heavy_check_mark:
+- __Course 4__ - C Programming: Pointers and Memory Management - 4 
   
   
-- __Course 5__ - C Programming: Advanced Data Types - 5 :heavy_check_mark:
-  
-
-- __Course 6__ -  Linux Basics: The Command Line Interface - 6 :heavy_check_mark:
+- __Course 5__ - C Programming: Advanced Data Types - 5 
   
 
-- __Course 7__ - C Programming: Using Linux Tools and Libraries - 7 :heavy_check_mark:
+- __Course 6__ -  Linux Basics: The Command Line Interface - 6 
+  
+
+- __Course 7__ - C Programming: Using Linux Tools and Libraries - 7 
 
   ***
 
