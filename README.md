@@ -35,7 +35,7 @@ Along with the C programming language comes Linux, an essential operating system
 
 - __Course 7__ - C Programming: Using Linux Tools and Libraries - 7 
 
-  ***
+***
 
   _Note: This repository is intended to showcase work completed in pursuit of a professional certificate as part of a professional portfolio. This code is not intended for redistribution, and the original author of this repository is not responsible for any academic penalties or other damages incurred from plagiarized code._
   
